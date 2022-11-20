@@ -1,2 +1,1 @@
-# Luhn-Algorithm
-Credit Card Validity
+# Luhn's-Algorithm : Credit Card Validity
